@@ -5,7 +5,7 @@
 </div>
 
 <div class="row">
-	<div class="<!-- IF widgets.hp-sidebar.length -->col-lg-9 col-sm-12<!-- ELSE -->col-lg-12<!-- ENDIF widgets.hp-sidebar.length -->">
+	<div class="<!-- IF widgets.hp-sidebar.length -->col-md-9 col-sm-12<!-- ELSE -->col-md-12<!-- ENDIF widgets.hp-sidebar.length -->">
 		<div widget-area="hp-content">
 			<!-- BEGIN widgets.hp-content -->
 			{{widgets.hp-content.html}}
